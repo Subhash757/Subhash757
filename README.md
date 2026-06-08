@@ -14,10 +14,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year Engineering Student  
+- 🎓 Second Year Engineering Student  
 - 📊 Passionate about FullStack Development 
 - 🤖 Interested in AI & Machine Learning  
-- 📈 Learning C, Python & SQL  
+- 📈 Learning C, Python & SQL ,Java, C++ 
 - 💬 Ask me about Data, Python, AI Tools  
 
 ---
