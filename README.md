@@ -1,66 +1,52 @@
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Amar%20Methre&reversal=false&textBg=false" />
+<!-- Web-slinger inspired GitHub profile README for Subhash K M -->
+<!-- If your GitHub username is different, replace subhashkmsubhash4 in the GitHub Stats image links. -->
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+Enthusiast;Engineering+Student;Power+BI+%7C+Python+%7C+SQL;Turning+Data+Into+Insights" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mouryagponline-web&label=Profile%20views&color=00f7ff&style=flat" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A2A66,35:E50914,70:0B1020,100:00A3FF&text=SUBHASH%20K%20M&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Web-Slinger%20Inspired%20Developer%20Profile&descAlignY=58&descSize=18&animation=fadeIn" alt="Subhash K M colorful profile banner" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=25&pause=900&color=E50914&center=true&vCenter=true&width=850&lines=Learning+Every+Day;Building+Cool+Things;Welcome+to+My+GitHub+Profile" alt="Typing intro" />
 
-## 👨‍💻 About Me
+</div>
 
-- 🎓 Second Year Engineering Student  
-- 📊 Passionate about FullStack Development 
-- 🤖 Interested in AI & Machine Learning  
-- 📈 Learning C, Python & SQL ,Java, C++ 
-- 💬 Ask me about Data, Python, AI Tools  
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-___subhash_____18-E50914?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___subhash_____18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhash%20K%20M-00A3FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhash-k-m-86527537a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Email](https://img.shields.io/badge/Email-subhashkmsubhash4%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhashkmsubhash4@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,excel,powerbi,git,github,vscode,linux" />
-</p>
+Hi, I am **Subhash K M**. I enjoy learning technology, building projects, and improving my coding skills step by step.
 
----
+- Currently learning and creating new projects
+- Interested in web development, programming, and open-source work
+- Always ready to explore better ideas and build something useful
 
-## 🔥 GitHub Streak
+## Tech Focus
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?https://github.com/amarmethre-web&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Tech icons" />
 
-## 📌 Featured Projects
+</div>
 
-🚀 **Online Food Delivery**  
-🤖 **Hospital Management System**  
-🌐 **Personal Portfolio Website**  
+## GitHub Stats
 
----
+<div align="center">
 
-## 🌐 Connect With Me
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=subhashkmsubhash4&show_icons=true&theme=tokyonight&hide_border=true&title_color=E50914&icon_color=00A3FF" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=subhashkmsubhash4&theme=tokyonight&hide_border=true&ring=E50914&fire=00A3FF&currStreakLabel=FFFFFF" alt="GitHub streak" />
 
-<p align="center">
-  <a href="https://www.instagram.com/amar_methre_1164">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:amarmethre96@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+</div>
+</div>
 
----
+<div align="center">
 
-## ⚡ Fun Fact
-> I turn data into insights and ideas into reality 🚀
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00A3FF,50:E50914,100:0B1020" alt="Colorful footer" />
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+</div>
