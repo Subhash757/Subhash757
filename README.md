@@ -1,11 +1,10 @@
-<!-- Web-slinger inspired GitHub profile README for Subhash K M -->
-<!-- If your GitHub username is different, replace subhashkmsubhash4 in the GitHub Stats image links. -->
+<!-- 🕸️ Web-Slinger Inspired GitHub Profile README for Subhash K M -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A2A66,35:E50914,70:0B1020,100:00A3FF&text=SUBHASH%20K%20M&fontColor=ffffff&fontSize=58&fontAlignY=40&desc=Web-Slinger%20Inspired%20Developer%20Profile&descAlignY=58&descSize=18&animation=fadeIn" alt="Subhash K M colorful profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A2A66,35:E50914,70:0B1020,100:00A3FF&text=SUBHASH%20K%20M&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Your%20Friendly%20Neighborhood%20Developer%20🕸️&descAlignY=60&descSize=20&animation=fadeIn" alt="Subhash K M colorful profile banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=700&size=25&pause=900&color=E50914&center=true&vCenter=true&width=850&lines=Learning+Every+Day;Building+Cool+Things;Welcome+to+My+GitHub+Profile" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E50914&center=true&vCenter=true&width=850&lines=Learning+Every+Day;Building+Amazing+Web+Experiences;Welcome+to+My+Creative+Space!" alt="Typing intro" />
 
 </div>
 
@@ -19,31 +18,50 @@
 
 ---
 
-## About Me
+<div align="center">
 
-Hi, I am **Subhash K M**. I enjoy learning technology, building projects, and improving my coding skills step by step.
+### 🕸️ About Me
 
-- Currently learning and creating new projects
-- Interested in web development, programming, and open-source work
-- Always ready to explore better ideas and build something useful
+**Hello there! I am Subhash K M** 👋
 
-## Tech Focus
+I'm a passionate developer who loves swinging through new technologies, building sleek projects, and leveling up my coding skills day by day. I believe in crafting web experiences that are not just functional, but *amazing*. 
+
+🌱 **Currently:** Exploring advanced web development and building new side projects.<br>
+🎯 **Focus:** Web Development | Programming | Open-Source Contributions.<br>
+💡 **Motto:** *With great code comes great responsibility.*
+
+</div>
+
+<br>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Tech icons" />
+### ⚡ Tech Stack & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark" alt="Tech icons" />
 
 </div>
 
-## GitHub Stats
+<br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=subhashkmsubhash4&show_icons=true&theme=tokyonight&hide_border=true&title_color=E50914&icon_color=00A3FF" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=subhashkmsubhash4&theme=tokyonight&hide_border=true&ring=E50914&fire=00A3FF&currStreakLabel=FFFFFF" alt="GitHub streak" />
+### 🕸️ GitHub Streak & Spidey Vibes
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/xTiTnHvXPNxUXALALe/giphy.gif" alt="Spiderman Web" height="165" style="border-radius: 10px;" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Subhash757&background=0B1020&title_color=00A3FF&icon_color=E50914&text_color=ffffff&hide_border=true&ring=E50914&fire=00A3FF&currStreakLabel=ffffff" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 </div>
-</div>
+
+<br>
 
 <div align="center">
 
